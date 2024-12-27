@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MiniInventoryManagementSystem.Models.Product>
+
+
+<h1>Product List</h1>
+
+<a class="btn btn-primary" href="/Products/Create">Add New Product</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Stock</td>
+                <td>
+                    <a class="btn btn-warning" href="/Products/Edit/@product.Id">Edit</a>
+                    <a class="btn btn-danger" href="/Products/Delete/@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

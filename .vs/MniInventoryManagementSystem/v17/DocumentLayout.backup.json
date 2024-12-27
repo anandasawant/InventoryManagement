@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\orders\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\orders\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\products\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\products\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\miniinventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\miniinventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MniInventoryManagementSystem.csproj|c:\\users\\hp\\source\\repos\\mniinventorymanagementsystem\\mniinventorymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D83D5529-C417-4124-8154-32ECEE5D71D8}|MniInventoryManagementSystem\\MniInventoryManagementSystem.csproj|solutionrelative:mniinventorymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:14:17.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:13:28.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:12:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Orders\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Orders\\PlaceOrder.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Orders\\PlaceOrder.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Orders\\PlaceOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:05:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:05:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Products\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Products\\DeleteConfirmed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:03:56.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T01:01:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T00:59:29.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiniInventoryManagementSystem",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj",
+              "RelativeToolTip": "MniInventoryManagementSystem\\MiniInventoryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T00:43:44.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:34:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:32:56.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:44:12.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:30:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:26:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:22:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MniInventoryManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MniInventoryManagementSystem\\MniInventoryManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MniInventoryManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T23:33:21.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
